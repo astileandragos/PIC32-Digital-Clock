@@ -27,7 +27,7 @@ A digital clock implementation built on a PIC32 microcontroller using **MPLAB X 
 
 ### FSM State Diagram
 *The logic flow detailing the transitions between normal operation and configuration states:*  
-![FSM Diagram](nume_diagrama_stari.png)
+![FSM Diagram](state_diagram.png)
 
 ## How to Run
 1. Open **Microchip MPLAB X IDE**.
