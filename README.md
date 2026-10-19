@@ -3,8 +3,12 @@
 A digital clock implementation built on a PIC32 microcontroller using **MPLAB X IDE** and written in **Embedded C**. The project focuses on hardware timer configurations, interrupt-driven architecture, and real-time display management.
 
 ## Hardware Demo
-*Live demonstration of the PIC32 digital clock in operation:*  
+*Live demonstration of the PIC32 digital clock in operation:*
+
+*Menus:*
 ![Clock Demo1](pic32_menu.gif)
+
+*Incrementing and Longpress:*
 ![Clock Demo2](pic32.incrementing.gif)
 
 
