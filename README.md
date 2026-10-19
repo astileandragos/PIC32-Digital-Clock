@@ -4,7 +4,9 @@ A digital clock implementation built on a PIC32 microcontroller using **MPLAB X 
 
 ## Hardware Demo
 *Live demonstration of the PIC32 digital clock in operation:*  
-![Clock Demo](nume_video_sau_gif.gif)
+![Clock Demo1](pic32_menu.gif)
+![Clock Demo2](pic32.incrementing.gif)
+
 
 ## Tech Stack
 - **Microcontroller:** PIC32 Family
